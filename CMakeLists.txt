@@ -3,5 +3,4 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(run
-        pascals_triangle.cpp triangle.h triangle.cpp board.h board.cpp player.h game.h game.cpp)
+add_executable(run l3.cpp)
